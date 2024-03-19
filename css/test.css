@@ -1,0 +1,21 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+img {
+    height: 100%;
+}
+.swiper .swiper-slide {
+    font-size: 18px;
+    color: #fff;
+    -webkit-box-sizing: border-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.swiper .s1 {
+    background-image: url(../img/boat1.jpg);
+}
+.swiper .s2 {
+    background-image: url(../img/boat2.jpg);
+}
+.swiper .s3 {
+    background-image: url(../img/boat3.jpg);
+}
